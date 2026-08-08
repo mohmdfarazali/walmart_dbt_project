@@ -1,6 +1,7 @@
 # 🏠 Walmart Data Engineering Pipeline with Airflow, Databricks & dbt
 
 ## 📋 Overview
+![Walmart Data Engineering Pipeline](walmart_dbt_project/Walmart%20Project.png)
 
 This project demonstrates an end-to-end modern data engineering pipeline built using **Apache Airflow, Databricks, and dbt**. The pipeline orchestrates CDC ingestion from Databricks source tables, runs dbt transformations across technical and business layers, and loads analytics-ready datasets.
 
